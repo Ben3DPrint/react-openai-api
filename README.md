@@ -1,4 +1,4 @@
-# react-openai-api
+## react-openai-api
 
 This library is a react wrapper for the openAI API, please feel free to use and/or contribute
 
